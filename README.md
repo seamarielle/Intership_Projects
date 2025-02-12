@@ -1,2 +1,3 @@
-# Intership_Projects
-Future Intern
+# Python
+Activities in Advanced Computer Programming
+BatStateU - TNEU
